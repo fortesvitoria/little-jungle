@@ -1,0 +1,15 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 80px o;
+}
+
+.formulario form {
+    max-width: 80%;
+    background-color: #f2f8f4;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0, 0.08);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
