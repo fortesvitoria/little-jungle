@@ -1,7 +1,11 @@
 # PROJETO REACT: LITTLE JUNGLE - CATÁLOGO DE PLANTAS
 
+##Vercel:
+
 little-jungle.vercel.app
+
 little-jungle-fortesvitoria.vercel.app
+
 little-jungle-git-master-fortesvitoria.vercel.app
 
 
