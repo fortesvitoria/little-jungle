@@ -1,5 +1,10 @@
 # PROJETO REACT: LITTLE JUNGLE - CATÁLOGO DE PLANTAS
 
+little-jungle.vercel.app
+little-jungle-fortesvitoria.vercel.app
+little-jungle-git-master-fortesvitoria.vercel.app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
