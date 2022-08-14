@@ -29,30 +29,30 @@ const Formulario = (props) => {
         <section className="formulario">
             <form onSubmit={aoSalvar}>
                 <h2>PREENCHA OS DADOS PARA CRIAR O CARD DA PLANTA</h2>
-                <CampoTexto 
+                <CampoTexto
                     obrigatorio={true}
                     label="Nome"
-                    placeholder="Digite o nome popular da planta" 
+                    placeholder="Digite o nome popular da planta"
                     valor={nome}
                     aoAlterado={valor => setNome(valor)}
                 />
                 <CampoTexto
                     obrigatorio={true}
                     label="Espécie"
-                    placeholder="Digite a espécie da planta" 
+                    placeholder="Digite a espécie da planta"
                     valor={especie}
                     aoAlterado={valor => setEspecie(valor)}
                 />
                 <CampoTexto
-                obrigatorio={true}
+                    obrigatorio={true}
                     label="Imagem"
-                    placeholder="Digite o endereço da imagem" 
+                    placeholder="Digite o endereço da imagem"
                     valor={imagem}
                     aoAlterado={valor => setImagem(valor)}
                 />
                 <ListaSuspensa
                     obrigatorio={true}
-                    label="Ambiente" 
+                    label="Ambiente"
                     itens={props.ambientes}
                     valor={ambiente}
                     aoAlterado={valor => setAmbiente(valor)}

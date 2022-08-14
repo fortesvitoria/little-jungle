@@ -1,9 +1,9 @@
 import './Banner.css'
 
 const Banner = () => {
-    return(
+    return (
         <header className='banner'>
-             <img src="/imagens/banner.png" alt="O banner principal da página Little Jungle"/>
+            <img src="/imagens/banner.png" alt="O banner principal da página Little Jungle" />
         </header>
     )
 }
