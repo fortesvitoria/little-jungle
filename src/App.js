@@ -11,13 +11,15 @@ function App() {
 
     {
       nome: 'Sol pleno',
-      corPrimaria: '#BDA34E',
-      corSecundaria: '#e0d6b8',
+      corPrimaria: ' rgba(241, 175, 52, 0.671)',
+      corSecundaria: 'rgba(241, 239, 202, 0.671)',
     },
+
+
     {
       nome: 'Meia-sombra',
-      corPrimaria: '#5E9459',
-      corSecundaria: '#bfddbc',
+      corPrimaria: 'rgba(28, 100, 62, 0.788)',
+      corSecundaria: 'rgba(205, 236, 220, 0.61)',
     },
     
 
